@@ -1,0 +1,22 @@
+{
+  "name": "afl-kids-fanstasy",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/AFL-Almanac/Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFL-Almanac/AFL-Kids-Fanstasy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFL-Almanac/AFL-Kids-Fanstasy/issues"
+  },
+  "homepage": "https://github.com/AFL-Almanac/AFL-Kids-Fanstasy#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
